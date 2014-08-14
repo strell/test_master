@@ -12,6 +12,9 @@
  * @class Strell_Dump
  */
 
+class test2{
+}
+
 class Strell_Dump
 {
     /**
