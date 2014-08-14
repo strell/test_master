@@ -15,6 +15,10 @@
  * @class Strell_Log_Abstract
  */
 
+class test3{
+
+}
+
 abstract class Strell_Log_Abstract
 {
     const DATE_FORMAT_FULL = 'Y-m-d H:i:s';
