@@ -15,6 +15,16 @@
  * @class Strell_Log
  */
 
+
+class test{
+
+}
+
+
+class test1{
+
+}
+
 class Strell_Log
 {
     static protected  $_logInstance = null;
